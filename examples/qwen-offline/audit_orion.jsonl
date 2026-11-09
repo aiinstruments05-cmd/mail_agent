@@ -1,0 +1,4 @@
+{"ts": "2026-11-06T11:40:37.284Z", "run_id": "db91bb6463d0", "kind": "tool_call", "tool": "search_emails", "thread_id": null, "ok": true}
+{"ts": "2026-11-06T11:41:00.672Z", "run_id": "db91bb6463d0", "kind": "tool_call", "tool": "read_thread", "thread_id": "T-ORION", "ok": true}
+{"ts": "2026-11-06T11:43:33.799Z", "run_id": "db91bb6463d0", "kind": "tool_call", "tool": "read_thread", "thread_id": "T-ORION", "ok": true}
+{"ts": "2026-11-06T11:53:36.968Z", "run_id": "db91bb6463d0", "kind": "tool_call", "tool": "create_draft", "thread_id": "T-ORION", "ok": true}

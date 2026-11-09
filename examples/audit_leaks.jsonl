@@ -1,0 +1,2 @@
+{"ts": "2026-11-07T14:18:06.297Z", "run_id": "02f56b90b637", "kind": "blocked", "location": "tool_call", "tool": "search_emails"}
+{"ts": "2026-11-07T14:18:24.637Z", "run_id": "6c3a5bb8bf9c", "kind": "blocked", "location": "response", "tool": null}

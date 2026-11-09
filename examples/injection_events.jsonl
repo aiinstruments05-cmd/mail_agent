@@ -1,0 +1,1 @@
+{"ts": "2026-11-07T14:17:44.341Z", "event": "PROMPT_INJECTION_SUSPECTED", "run_id": "982d4cdbc46a", "email_id": "M-4001", "thread_id": "T-PARTNER", "rules": ["override_instructions", "prompt_exfiltration", "addresses_ai", "tool_manipulation"], "action": "QUARANTINED"}

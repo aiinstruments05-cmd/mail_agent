@@ -1,0 +1,2 @@
+{"ts": "2026-11-06T11:57:34.449Z", "event": "SYSTEM_PROMPT_LEAK", "run_id": "f74e79933eeb", "location": "tool_call", "reason": "CANARY_MATCH", "action": "BLOCKED", "tool": "search_emails"}
+{"ts": "2026-11-06T11:58:51.100Z", "event": "SYSTEM_PROMPT_LEAK", "run_id": "e587a69f5943", "location": "response", "reason": "CANARY_MATCH", "action": "BLOCKED"}

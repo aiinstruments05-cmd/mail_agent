@@ -1,0 +1,8 @@
+langgraph>=1.0,<2
+qdrant-client>=1.12,<2
+sentence-transformers>=3.0,<3.3
+transformers>=4.41,<4.46
+numpy>=1.26,<2
+httpx>=0.27
+openai>=1.40
+pytest>=8
